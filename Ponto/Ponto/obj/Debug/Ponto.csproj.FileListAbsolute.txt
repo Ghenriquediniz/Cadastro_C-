@@ -1,0 +1,25 @@
+C:\Users\guigu\OneDrive\GUI\Ponto\Ponto\Ponto\bin\Debug\Ponto.exe.config
+C:\Users\guigu\OneDrive\GUI\Ponto\Ponto\Ponto\bin\Debug\Ponto.exe
+C:\Users\guigu\OneDrive\GUI\Ponto\Ponto\Ponto\bin\Debug\Ponto.pdb
+C:\Users\guigu\OneDrive\GUI\Ponto\Ponto\Ponto\obj\Debug\Ponto.csproj.AssemblyReference.cache
+C:\Users\guigu\OneDrive\GUI\Ponto\Ponto\Ponto\obj\Debug\Ponto.csproj.SuggestedBindingRedirects.cache
+C:\Users\guigu\OneDrive\GUI\Ponto\Ponto\Ponto\obj\Debug\Ponto.Cadastro.resources
+C:\Users\guigu\OneDrive\GUI\Ponto\Ponto\Ponto\obj\Debug\Ponto.Menu.resources
+C:\Users\guigu\OneDrive\GUI\Ponto\Ponto\Ponto\obj\Debug\Ponto.Properties.Resources.resources
+C:\Users\guigu\OneDrive\GUI\Ponto\Ponto\Ponto\obj\Debug\Ponto.csproj.GenerateResource.cache
+C:\Users\guigu\OneDrive\GUI\Ponto\Ponto\Ponto\obj\Debug\Ponto.csproj.CoreCompileInputs.cache
+C:\Users\guigu\OneDrive\GUI\Ponto\Ponto\Ponto\obj\Debug\Ponto.exe
+C:\Users\guigu\OneDrive\GUI\Ponto\Ponto\Ponto\obj\Debug\Ponto.pdb
+C:\Users\guigu\OneDrive\GUI\Ponto - back 1\Ponto\Ponto\bin\Debug\Ponto.exe.config
+C:\Users\guigu\OneDrive\GUI\Ponto - back 1\Ponto\Ponto\bin\Debug\Ponto.exe
+C:\Users\guigu\OneDrive\GUI\Ponto - back 1\Ponto\Ponto\bin\Debug\Ponto.pdb
+C:\Users\guigu\OneDrive\GUI\Ponto - back 1\Ponto\Ponto\obj\Debug\Ponto.csproj.AssemblyReference.cache
+C:\Users\guigu\OneDrive\GUI\Ponto - back 1\Ponto\Ponto\obj\Debug\Ponto.csproj.SuggestedBindingRedirects.cache
+C:\Users\guigu\OneDrive\GUI\Ponto - back 1\Ponto\Ponto\obj\Debug\Ponto.Cadastro.resources
+C:\Users\guigu\OneDrive\GUI\Ponto - back 1\Ponto\Ponto\obj\Debug\Ponto.Menu.resources
+C:\Users\guigu\OneDrive\GUI\Ponto - back 1\Ponto\Ponto\obj\Debug\Ponto.Properties.Resources.resources
+C:\Users\guigu\OneDrive\GUI\Ponto - back 1\Ponto\Ponto\obj\Debug\Ponto.csproj.GenerateResource.cache
+C:\Users\guigu\OneDrive\GUI\Ponto - back 1\Ponto\Ponto\obj\Debug\Ponto.csproj.CoreCompileInputs.cache
+C:\Users\guigu\OneDrive\GUI\Ponto - back 1\Ponto\Ponto\obj\Debug\Ponto.exe
+C:\Users\guigu\OneDrive\GUI\Ponto - back 1\Ponto\Ponto\obj\Debug\Ponto.pdb
+C:\Users\guigu\OneDrive\GUI\Ponto - back 1\Ponto\Ponto\obj\Debug\Ponto.ok.resources
